@@ -15,5 +15,7 @@ public class IntegerArrayToList
         // for (Object o : colList) System.out.print(o + " ");
         for(int i = 0; i<colList.size(); i++)
             System.out.print(colList.get(i) + " ");
+
+        System.out.println(ar.length);
     }
 }

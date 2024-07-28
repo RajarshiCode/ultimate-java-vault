@@ -3,8 +3,8 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 public class ArrayListANDLinkedListCompare {
     public static void main(String[] args) {
-        LinkedList<Integer> linkedList = new LinkedList<Integer>();
-        ArrayList<Integer> arrayList = new ArrayList<Integer>();
+        LinkedList<Integer> linkedList = new LinkedList<>();
+        ArrayList<Integer> arrayList = new ArrayList<>();
 
         long startTime;
         long endTIme;
