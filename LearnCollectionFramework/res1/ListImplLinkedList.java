@@ -10,6 +10,8 @@ public class ListImplLinkedList {
         LinkedList<Integer> lnd = new LinkedList<>();
         List<Integer> lnd2 = new LinkedList<>();
 
+
+        
         lnd2.add(1);
         lnd2.add(2);
 

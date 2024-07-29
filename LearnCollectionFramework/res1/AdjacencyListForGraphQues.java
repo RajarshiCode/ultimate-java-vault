@@ -1,6 +1,7 @@
 package LearnCollectionFramework.res1;
 import java.util.*;
 public class AdjacencyListForGraphQues {
+
     public static void main(String[] args) {
         Map<Integer, List<Integer>> adj = new HashMap<>();
 
