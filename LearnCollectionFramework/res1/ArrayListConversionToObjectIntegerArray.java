@@ -9,7 +9,6 @@ public class ArrayListConversionToObjectIntegerArray {
         arlist.add(10);
         arlist.add(100);
         arlist.add(1000);
-
         System.out.println("The arrayList : " + arlist);
 
         Integer[] ar = arlist.toArray(new Integer[0]);
