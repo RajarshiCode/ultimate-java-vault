@@ -12,6 +12,7 @@ public class ListImplLinkedList {
 
         lnd2.add(1);
         lnd2.add(2);
+
         lnd2.add(3);
 
         ListIterator<Integer> it = lnd2.listIterator();
