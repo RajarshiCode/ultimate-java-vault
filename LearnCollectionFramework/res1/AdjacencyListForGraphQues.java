@@ -10,6 +10,7 @@ public class AdjacencyListForGraphQues {
         adj.computeIfAbsent(1,f -> new ArrayList<>()).add(30);
         adj.computeIfAbsent(1,f -> new ArrayList<>()).add(10);
 
+
         System.out.println(adj);
     }
 }

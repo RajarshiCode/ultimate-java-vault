@@ -20,7 +20,7 @@ public class QueueLearn {
         *
         * */
 
-        Queue<String> queue = new LinkedList<String>();
+        Queue<String> queue = new LinkedList<>();
 
         System.out.println("Queue is empty? " + queue.isEmpty());
         queue.offer("Himan");
